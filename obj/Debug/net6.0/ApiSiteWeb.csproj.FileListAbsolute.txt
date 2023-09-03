@@ -1,0 +1,7 @@
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.csproj.AssemblyReference.cache
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.AssemblyInfoInputs.cache
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.AssemblyInfo.cs
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.csproj.CoreCompileInputs.cache
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.MvcApplicationPartsAssemblyInfo.cs
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/obj/Debug/net6.0/ApiSiteWeb.MvcApplicationPartsAssemblyInfo.cache
