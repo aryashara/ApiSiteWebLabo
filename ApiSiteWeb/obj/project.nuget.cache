@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFltWNmAz/H2gFt0oVRe+xBRVLzWiVpAkCl21/z34S4D5zOiTOb1gRJS4c/cH9pbDHGz6qtqL2Tv2on+43ZYrg==",
+  "success": true,
+  "projectFilePath": "/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/ApiSiteWeb.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/tanyavanhoebroeck/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/tanyavanhoebroeck/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

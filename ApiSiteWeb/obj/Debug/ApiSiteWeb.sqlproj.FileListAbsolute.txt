@@ -1,0 +1,9 @@
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/bin/Debug/ApiSiteWeb.dacpac
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/bin/Debug/ApiSiteWeb.dll
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/bin/Debug/ApiSiteWeb.pdb
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/Model.xml
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/refactor.xml
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/postdeploy.sql
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/predeploy.sql
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/ApiSiteWeb.dll
+/Users/tanyavanhoebroeck/Desktop/ApiSiteWeb/ApiSiteWeb/obj/Debug/ApiSiteWeb.pdb
